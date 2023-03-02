@@ -37,17 +37,17 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 # 📝 Publications 
 
-- **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_.
-
 - **Liu, H.**, W Zhang, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B. & Zheng, Y. (2022). AdaptiveMix: Improving GAN Training via Feature Space Shrinkage _CVPR'2023_.
+
+- Wu, H.\*, Chen, K.\*, **Liu, H.**\*, Zhuge, M.\*, B Li, ..., & Ghanem, B. NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation _CVPR'2023_.(**\* Equal Contribution**)
+
+- **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_.
 
 - **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV'2022 Workshop_ 
 
-- Wu, H.\*, Chen, K.\*, **Liu, H.**\*, Zhuge, M.\*, B Li, ..., & Ghanem, B. NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation _CVPR'2023_.
-
 - Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _MICCAI'2022_. (**\* Equal Contribution**)
 
-- Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. Effective Presentation Attack Detection Driven by Face Related Task. _ECCV'2022_ (**\* Equal Contribution**)
+- Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. Effective Presentation Attack Detection Driven by Face Related Task. _ECCV'2022_.(**\* Equal Contribution**)
 
 - **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. Group-wise Inhibition based Feature Regularization for Robust Classification. _ICCV'2021_ 
 
