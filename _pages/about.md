@@ -69,12 +69,14 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 - Research Field includes Video based Decision System, especially focusing on the extraction of the subgoal in a trajectory.
 
+- Contribute a large-scale Video Benchmark, NewsNet, for hierarchical video temporal segmentation, which is accepted by **CVPR'2023**. (I contribute most of my work before joining KAUST.)
+
 ---
 
 ### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Yawen Huang](https://yawen-hwang.github.io/), [Dr. Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
   
-- Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks.
+- Proposed AdaptiveMix to improve GAN training, which is accepted by **CVPR'2023**. (This project is cooperated with AI Initiative, KAUST.)
 
 - Proposed offline entropy estimation to combat mode collapse, which is accepted **AAAI'2023**. (This project is cooperated with AI Initiative, KAUST.)  
 - Proposed Point Beyond Class to reduce the annotation cost for medical object detection, which is accepted by **MICCAI'2022**.
