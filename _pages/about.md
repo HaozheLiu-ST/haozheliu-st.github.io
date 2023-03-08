@@ -37,11 +37,14 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 # 📝 Publications 
 
-In top venues: 
+In top Venues: 
 
-Journals: TIP x 1, TCYB x 1, TNNLS x 1, TIFS x 1
+Journals: IEEE TIP x 1, IEEE TCYB x 1, IEEE TNNLS x 1, IEEE TIFS x 1, IEEE TMI x 1.
 
 Conferences: CVPR x 3, ICCV x 1, ECCV x 1, MICCAI x 2, AAAI x 1.
+
+
+Selected Publications:
 
 - **Liu, H.**, W Zhang, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B. & Zheng, Y. (2022). AdaptiveMix: Improving GAN Training via Feature Space Shrinkage _CVPR'2023_.
 
