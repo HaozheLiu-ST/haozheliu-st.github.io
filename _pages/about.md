@@ -37,6 +37,12 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 # 📝 Publications 
 
+In top venues: 
+
+Journals: TIP x 1, TCYB x 1, TNNLS x 1, TIFS x 1
+
+Conferences: CVPR x 3, ICCV x 1, ECCV x 1, MICCAI x 2, AAAI x 1.
+
 - **Liu, H.**, W Zhang, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B. & Zheng, Y. (2022). AdaptiveMix: Improving GAN Training via Feature Space Shrinkage _CVPR'2023_.
 
 - Wu, H.\*, Chen, K.\*, **Liu, H.**\*, Zhuge, M.\*, B Li, ..., & Ghanem, B. NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation _CVPR'2023_.(**\* Equal Contribution**)
