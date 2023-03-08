@@ -37,7 +37,7 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 # 📝 Publications 
 
-In top Venues: 
+In Top Venues: 
 
 Journals: IEEE TIP x 1, IEEE TCYB x 1, IEEE TNNLS x 1, IEEE TIFS x 1, IEEE TIM x 1.
 
