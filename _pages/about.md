@@ -47,6 +47,8 @@ Conferences: CVPR x 3, ICCV x 1, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 Selected Publications:
 
+- Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper_. (**\* Equal Contribution**)
+
 - **Liu, H.**, W Zhang, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B. & Zheng, Y. (2022). AdaptiveMix: Improving GAN Training via Feature Space Shrinkage _CVPR'2023_.
 
 - Wu, H.\*, Chen, K.\*, **Liu, H.**\*, Zhuge, M.\*, B Li, ..., & Ghanem, B. NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation _CVPR'2023_.(**\* Equal Contribution**)
