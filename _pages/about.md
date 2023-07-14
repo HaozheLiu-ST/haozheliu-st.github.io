@@ -22,6 +22,7 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 
 # 🔥 News
+- *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV'2023!.
 - *2023.05*: &nbsp;🎉 Our proposal w.r.t generative model is funded by SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence (SDAIA-KAUST AI) (200k SAR, Co-PI with [Bing Li](https://scholar.google.com/citations?user=xBiftlUAAAAJ&hl=en)).
 - *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!.
 - *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023.
