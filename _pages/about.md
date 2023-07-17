@@ -39,30 +39,30 @@ Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL
 
 # 📝 Publications 
 
-In Top Venues: 
-
 Journals: IEEE TIP x 1, IEEE TCYB x 1, IEEE TNNLS x 1, IEEE TIFS x 1, IEEE TIM x 1.
 
-Conferences: CVPR x 3, ICCV x 1, ECCV x 1, MICCAI x 2, AAAI x 1.
+Conferences: CVPR x 3, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 
 Selected Publications:
 
-- Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper_. (**\* Equal Contribution**)
+- **Liu, H.**, Zhuge, M., Li, B., Wang, Y., Faccio, F., Ghanem, B. & Schmidhuber, J. (2023) Learning to Identify Critical States for Reinforcement Learning from Videos _ICCV'2023_.
 
 - **Liu, H.**, W Zhang, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B. & Zheng, Y. (2022). AdaptiveMix: Improving GAN Training via Feature Space Shrinkage _CVPR'2023_.
 
-- Wu, H.\*, Chen, K.\*, **Liu, H.**\*, Zhuge, M.\*, B Li, ..., & Ghanem, B. NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation _CVPR'2023_.(**\* Equal Contribution**)
-
 - **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_.
-
-- Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _MICCAI'2022_. (**\* Equal Contribution**)
-
-- Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. Effective Presentation Attack Detection Driven by Face Related Task. _ECCV'2022_.(**\* Equal Contribution**)
 
 - **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. Group-wise Inhibition based Feature Regularization for Robust Classification. _ICCV'2021_ 
 
 - **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE T-CYB_.
+
+- Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper_. (**\* Equal Contribution**)
+
+- Wu, H.\*, Chen, K.\*, **Liu, H.**\*, Zhuge, M.\*, B Li, ..., & Ghanem, B. NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation _CVPR'2023_.(**\* Equal Contribution**)
+
+- Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _MICCAI'2022_. (**\* Equal Contribution**)
+
+- Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. Effective Presentation Attack Detection Driven by Face Related Task. _ECCV'2022_.(**\* Equal Contribution**)
 
 # 🎖 Honors and Awards
 - *2022* Outstanding Graduate Award (**Rate<5%**)
