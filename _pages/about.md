@@ -46,9 +46,9 @@ Conferences: CVPR x 3, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 Selected Publications:
 
-- **Liu, H.**, Zhuge, M., Li, B., Wang, Y., Faccio, F., Ghanem, B. & Schmidhuber, J. (2023) Learning to Identify Critical States for Reinforcement Learning from Videos _ICCV'2023_.
+- **Liu, H.**, Zhuge, M., Li, B., Wang, Y., Faccio, F., Ghanem, B. & Schmidhuber, J. Learning to Identify Critical States for Reinforcement Learning from Videos _ICCV'2023_.
 
-- **Liu, H.**, W Zhang, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B. & Zheng, Y. (2022). AdaptiveMix: Improving GAN Training via Feature Space Shrinkage _CVPR'2023_.
+- **Liu, H.**, W Zhang, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B. & Zheng, Y. AdaptiveMix: Improving GAN Training via Feature Space Shrinkage _CVPR'2023_.
 
 - **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_.
 
