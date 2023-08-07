@@ -78,7 +78,9 @@ Selected Publications:
 ### AI Initiative (KAUST) 
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
 
-- Research Field includes Video based Decision System, especially focusing on the extraction of the subgoal in a trajectory.
+- Research Field includes explainable, reliable, and responsible AI.
+
+- Proposed Deep State Identifier to identify and recognize relevant states/actions/rewards for explaining the behavior given a policy. This project is accepted by **ICCV’2023**.
 
 - Contribute a large-scale Video Benchmark, NewsNet, for hierarchical video temporal segmentation, which is accepted by **CVPR'2023**. (I contribute most of my work before joining KAUST.)
 
