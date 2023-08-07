@@ -52,9 +52,11 @@ Selected Publications:
 
 - **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_.
 
-- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. Group-wise Inhibition based Feature Regularization for Robust Classification. _ICCV'2021_ 
+- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. Group-wise Inhibition based Feature Regularization for Robust Classification. _ICCV'2021_.
 
 - **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE T-CYB_.
+
+- **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV’2022 Workshop_.
 
 - Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper_. (**\* Equal Contribution**)
 
