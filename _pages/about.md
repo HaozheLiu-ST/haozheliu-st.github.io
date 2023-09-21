@@ -43,7 +43,7 @@ My recent research interests include deep generative models and reinforcement le
 
 Journals: IEEE TIP x 1, IEEE TCYB x 1, IEEE TNNLS x 1, IEEE TIFS x 1, IEEE TIM x 1.
 
-Conferences: CVPR x 3, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
+Conferences: NeurIPS x 1, CVPR x 3, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 
 Selected Publications:
@@ -59,6 +59,8 @@ Selected Publications:
 - **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE T-CYB_.
 
 - **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV’2022 Workshop_.
+
+- Zhang, W., **Liu, H.**, Li, B., Xie J., Huang, Y., Li, Y., Y. Zheng, Ghanem, B.. Dynamically Masked Discriminator for Generative Adversarial Networks _NeurIPS’2023_. (**\* Equal Contribution**)
 
 - Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper_. (**\* Equal Contribution**)
 
