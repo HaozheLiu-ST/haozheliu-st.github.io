@@ -23,7 +23,7 @@ My recent research interests include deep generative models and reinforcement le
 
 
 # 🔥 News
-- *2023.09*: &nbsp; One paper is accepted by NeurIPS'2023.
+- *2023.09*: &nbsp;🎉 One paper is accepted by NeurIPS'2023!
 - *2023.08*: &nbsp; Invited as a reviewer for AAAI'2024.
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV'2023!.
 - *2023.05*: &nbsp;🎉 Our proposal w.r.t generative model is funded by SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence (SDAIA-KAUST AI) (200k SAR, Co-PI with [Bing Li](https://scholar.google.com/citations?user=xBiftlUAAAAJ&hl=en)).
