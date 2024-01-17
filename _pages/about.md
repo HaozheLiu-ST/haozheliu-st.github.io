@@ -21,6 +21,7 @@ I am working towards a Ph.D. degree in AI Initiative, KAUST, under the supervisi
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉 [NLSOM](https://arxiv.org/pdf/2305.17066.pdf) is recognized as the best paper at NeurIPS'2023 workshop in (Robustness of Few-shot/Zero-shot Learning in Foundation Models)[https://neurips.cc/virtual/2023/workshop/66517] !
 - *2023.09*: &nbsp;🎉 One paper is accepted by NeurIPS'2023!
 - *2023.08*: &nbsp; Invited as a reviewer for AAAI'2024.
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV'2023!.
@@ -61,7 +62,7 @@ Selected Publications:
 
 - Zhang, W., **Liu, H.**, Li, B., Xie J., Huang, Y., Li, Y., Y. Zheng, Ghanem, B.. Dynamically Masked Discriminator for Generative Adversarial Networks _NeurIPS’2023_. (**\* Equal Contribution**)
 
-- Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper_. (**\* Equal Contribution**)
+- Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper, Best Paper@NeuralIPSW, _. (**\* Equal Contribution**)
 
 - Wu, H.\*, Chen, K.\*, **Liu, H.**\*, Zhuge, M.\*, B Li, ..., & Ghanem, B. NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation _CVPR'2023_.(**\* Equal Contribution**)
 
@@ -70,6 +71,7 @@ Selected Publications:
 - Zhang, W.\*, **Liu, H.**\*, Liu, F., Ramachandra, R., & Busch, C. Effective Presentation Attack Detection Driven by Face Related Task. _ECCV'2022_.(**\* Equal Contribution**)
 
 # 🎖 Honors and Awards
+- *2023* Best Paper Award at NeuralIPS Workshop in Robustness of Few-shot/Zero-shot Learning in Foundation Models
 - *2022* Outstanding Graduate Award (**Rate<5%**)
 - *2021* China National Scholarship (**Rate<0.02%**)
 - *2020* Excellent Academic Scholarship, First Class 
@@ -120,7 +122,7 @@ M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-C
 
 ### Conference Reviewer 
 - CVPR: 2022, 2023
-- ECCV: 2022
+- ECCV: 2022, 2024
 - ICCV: 2023
 - AAAI: 2024
 - ICML: 2022
