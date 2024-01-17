@@ -62,7 +62,7 @@ Selected Publications:
 
 - Zhang, W., **Liu, H.**, Li, B., Xie J., Huang, Y., Li, Y., Y. Zheng, Ghanem, B.. Dynamically Masked Discriminator for Generative Adversarial Networks _NeurIPS’2023_. (**\* Equal Contribution**)
 
-- Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper, Best Paper@NeuralIPSW, _. (**\* Equal Contribution**)
+- Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper, Best Paper@NeuralIPSW_. (**\* Equal Contribution**)
 
 - Wu, H.\*, Chen, K.\*, **Liu, H.**\*, Zhuge, M.\*, B Li, ..., & Ghanem, B. NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation _CVPR'2023_.(**\* Equal Contribution**)
 
