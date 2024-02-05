@@ -21,6 +21,7 @@ I am working towards a Ph.D. degree in AI Initiative, KAUST, under the supervisi
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 **I will join Meta as Research Scientist Intern on GenAI in Summer 2024!**
 - *2023.12*: &nbsp;🎉 [NLSOM](https://arxiv.org/pdf/2305.17066.pdf) is recognized as the best paper at NeurIPS'2023 workshop in [Robustness of Few-shot/Zero-shot Learning in Foundation Models](https://neurips.cc/virtual/2023/workshop/66517) !
 - *2023.09*: &nbsp;🎉 One paper is accepted by NeurIPS'2023!
 - *2023.08*: &nbsp; Invited as a reviewer for AAAI'2024.
