@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working towards a Ph.D. degree in AI Initiative, KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL, NTNU. My recent research interests include deep generative models and reinforcement learning, and my long-term goal lies in making the learnable systems reliable, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
+I am working towards a Ph.D. degree in AI Initiative, KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL, NTNU. My recent research interests include deep generative models and their security concerns. My long-term goal lies in making the learnable systems reliable, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
 
 
 # 🔥 News
