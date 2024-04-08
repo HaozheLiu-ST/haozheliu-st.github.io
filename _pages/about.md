@@ -60,9 +60,11 @@ Selected Publications:
 
 - **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE T-CYB_.
 
-- **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV’2022 Workshop_.
+- **Liu, H.**, Zhang, W., Xie J., Wu, H., Li, B., Zhang, Z., Li, Y., Huang, Y., Ghanem, B., Y. Zheng. Decoupled Mixup for Out-of-Distribution Visual Recognition. _ECCV’2022 Workshop_. 
 
-- Zhang, W., **Liu, H.**, Li, B., Xie J., Huang, Y., Li, Y., Y. Zheng, Ghanem, B.. Dynamically Masked Discriminator for Generative Adversarial Networks _NeurIPS’2023_. (**\* Equal Contribution**)
+- Zhang, W., **Liu, H.#**, Xie, J., Faccio, F., Shou, M. Z., & Schmidhuber, J. (2024). Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models. _Technical Report_. (**\# Corresponding Author**)
+
+- Zhang, W.\*, **Liu, H.**\*, Li, B., Xie J., Huang, Y., Li, Y., Y. Zheng, Ghanem, B.. Dynamically Masked Discriminator for Generative Adversarial Networks _NeurIPS’2023_. (**\* Equal Contribution**)
 
 - Zhuge, M.\*, **Liu, H.**\*, Faccio, F.\*, Ashley, D. R.\*, Csordás, R., Gopalakrishnan, A., ... & Schmidhuber, J. (2023). Mindstorms in Natural Language-Based Societies of Mind. _Position Paper, Best Paper@NeuralIPSW_. (**\* Equal Contribution**)
 
