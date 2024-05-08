@@ -51,6 +51,8 @@ Conferences: NeurIPS x 1, CVPR x 4, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 Selected Publications:
 
+- **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Techinical Report_ (under peer-review).
+
 - **Liu, H.**, Zhuge, M., Li, B., Wang, Y., Faccio, F., Ghanem, B. & Schmidhuber, J. Learning to Identify Critical States for Reinforcement Learning from Videos _ICCV'2023_.
 
 - **Liu, H.**, W Zhang, Li, B., Wu, H., He, N., Huang, Y., Li, Y., Ghanem, B. & Zheng, Y. AdaptiveMix: Improving GAN Training via Feature Space Shrinkage _CVPR'2023_.
