@@ -87,6 +87,11 @@ Selected Publications:
 
 # 📖 Research Experience
 
+### Meta AI 
+ Research Scientist Internship working with [Juan-Manuel Pérez-Rúa](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=en). 
+ 
+- Research Field includes scalable video generation and its efficiency. 
+
 ### AI Initiative (KAUST) 
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
 
