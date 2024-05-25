@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haozhe Liu"
-description              : "Working towards a Ph.D. degree"
+description              : "Research Scientist Internship@Meta | Prev. Tencent"
 repository               : "HaozheLiu-ST/haozheliu-st.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haozhe Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D., AI Initiative KAUST"
+  bio              : "Ph.D. Candidate, AI Initiative KAUST"
   location         : "Saudi Arabia"
   employer         :
   pubmed           : 
