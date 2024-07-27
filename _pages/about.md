@@ -50,6 +50,7 @@ Conferences: NeurIPS x 1, CVPR x 4, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 
 Selected Publications:
+- **Liu, H.**, Zhang, W., Xie, J., Faccio, F., Xu, M., Xiang, T., ... & Schmidhuber, J. (2024). Faster Diffusion via Temporal Attention Decomposition. _Techinical Report_ (under peer-review).
 
 - **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Techinical Report_ (under peer-review).
 
@@ -90,7 +91,8 @@ Selected Publications:
 ### Meta AI 
  Research Scientist Internship working with [Juan-Manuel Pérez-Rúa](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=en). 
  
-- Research Field includes scalable video generation and its efficiency. 
+- Working on Foundational Model (Text-to-Image and Image-to-Video) Pre-training.
+- Research Field includes scalable generation model and its efficiency. 
 
 ### AI Initiative (KAUST) 
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
