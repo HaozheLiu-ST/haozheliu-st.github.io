@@ -91,46 +91,44 @@ Selected Publications:
 ### Meta AI 
  Research Scientist Internship working with [Juan-Manuel Pérez-Rúa](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=en). 
  
-- Working on Foundational Model (Text-to-Image and Image-to-Video) Pre-training.
-- Research Field includes scalable generation model and its efficiency. 
+- Research Topic: Foundational Training, Image-to-Video Generation, Text-to-Image Generation.
+- Publication Records: Under Review x 1.
+- Co-Developing a foundtional text-to-image model to support several well-known products.
+- Scaling Auto-Regressive Diffusion to Video Generation.
 
 ### AI Initiative (KAUST) 
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
 
-- Research Field includes explainable, reliable, and responsible AI.
-
-- Proposed Deep State Identifier to identify and recognize relevant states/actions/rewards for explaining the behavior given a policy. This project is accepted by **ICCV’2023**.
-
-- Contribute a large-scale Video Benchmark, NewsNet, for hierarchical video temporal segmentation, which is accepted by **CVPR'2023**. (I contribute most of my work before joining KAUST.)
+- Research Topic: Neural Networks with Multiple-Step Inferences, e.g., Diffusion Model, Auto-Regressive Model, and  RL Agents.
+- Publication Records: ICCV x 1; CVPR x 2; NIPSW x 1;  Under Review x 3.
+- Highlight: NLSOM is awarded Best paper@NIPS'23 Ro-FoMo Workshop.
+- Highlight: TGate is merged into Diffusers Library and received over 300 stars on GitHub.
 
 ---
 
 ### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Yawen Huang](https://yawen-hwang.github.io/), [Dr. Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
   
-- Proposed AdaptiveMix to improve GAN training, which is accepted by **CVPR'2023**. (This project is cooperated with AI Initiative, KAUST.)
-
-- Proposed offline entropy estimation to combat mode collapse, which is accepted **AAAI'2023**. (This project is cooperated with AI Initiative, KAUST.)  
-- Proposed Point Beyond Class to reduce the annotation cost for medical object detection, which is accepted by **MICCAI'2022**.
-
-- Participate to NICO Challenge (ECCV'2022 workshop), our team reach to 5th/40 in both tracks at Phase I, and 4th in Track 2 at Final Phase. 
+- Research Topic: Generative Model and Medical Imaging.
+- Publication Records: NIPS x 1, CVPR x 1; ICCV x 1; AAAI x 1; MICCAI x 2; MIA x 1; PR x 1; ECCVW x 1. 
+- Highlight: MaF-GAN is recognized as \textbf{Oral} paper@AAAI.
+- Highlight: Ranked 4th in ECCV'2022 NICO Challenge.
 
 ---
 
 ### Norwegian Biometrics Laboratory (NTNU)
 Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
 
-- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is accepted by **IEEE TNNLS**.
-- Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV'2022**.
+- Research Topic: AI Safety, Facial/Fingerprint Recognition System.
+- Publication Records: ECCV x 1, IEEE TNNLS x 1.
 
 ---
 
 ### Computer Vision Insitute (SZU)
 M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
-- Proposed a regularization method to imporve the robustness of CNN based models, which is accepted by **ICCV'2021** and open source.
-- Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding.
-- Collected a famous presentation attack dataset based on OCT and **for the first time** established a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**
-- Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 **for the first time**. (Accepted by **IEEE TCYB**)
+- Research Topic: AI Safety, Facial/Fingerprint Recognition System.
+- Publication Records: CVPR x 1; ICCV x 1; IEEE TIP x 1; IEEE TCYB x 1, IEEE TIFS x 1, IEEE TIM x 1.
+- Highlight: Recognized as China National Scholarship and Outstanding Graduate Award.
 
 # 💻 Professional Service
 
