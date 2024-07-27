@@ -94,7 +94,7 @@ Selected Publications:
 - Research Topic: Foundational Training, Image-to-Video Generation, Text-to-Image Generation.
 - Publication Records: Under Review x 1.
 - Co-Developing a foundtional text-to-image model to support several well-known products.
-- Scaling Auto-Regressive Diffusion to Video Generation.
+- Scaling auto-regressive diffusion to video generation.
 
 ### AI Initiative (KAUST) 
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
