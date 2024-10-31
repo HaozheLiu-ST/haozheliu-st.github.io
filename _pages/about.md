@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL, NTNU. My recent research interests include deep generative models and their security concerns. My long-term goal lies in making the learnable systems reliable, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
+I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL, NTNU. My recent research interests include deep generative models. My long-term goal lies in making the learnable systems reliable, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
 
 
 # 🔥 News
@@ -28,7 +28,6 @@ I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Jue
 - *2023.09*: &nbsp;🎉 One paper is accepted by NeurIPS'2023!
 - *2023.08*: &nbsp; Invited as a reviewer for AAAI'2024.
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV'2023!.
-- *2023.05*: &nbsp;🎉 Our proposal w.r.t generative model is funded by SDAIA-KAUST Center of Excellence in Data Science and Artificial Intelligence (SDAIA-KAUST AI) (200k SAR, Co-PI with [Bing Li](https://scholar.google.com/citations?user=xBiftlUAAAAJ&hl=en)).
 - *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!.
 - *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023.
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI'2023 (Oral).
@@ -50,6 +49,9 @@ Conferences: NeurIPS x 1, CVPR x 4, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 
 Selected Publications:
+
+- **Liu, H.**, Liu, S., Zhou, Z., Xu, M., Xie, Y., Han, X., ... & Pérez-Rúa, J. M. (2024). MarDini: Masked Autoregressive Diffusion for Video Generation at Scale.  _Techinical Report_ (under peer-review).
+
 - **Liu, H.**, Zhang, W., Xie, J., Faccio, F., Xu, M., Xiang, T., ... & Schmidhuber, J. (2024). Faster Diffusion via Temporal Attention Decomposition. _Techinical Report_ (under peer-review).
 
 - **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Techinical Report_ (under peer-review).
