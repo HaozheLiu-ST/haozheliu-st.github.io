@@ -54,7 +54,7 @@ Selected Publications:
 
 - **Liu, H.**, Zhang, W., Xie, J., Faccio, F., Xu, M., Xiang, T., ... & Schmidhuber, J. (2024). Faster Diffusion via Temporal Attention Decomposition. _Techinical Report_ (under peer-review).
 
-- **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Techinical Report_ (under peer-review).
+- **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Techinical Report_.
 
 - **Liu, H.**, Zhuge, M., Li, B., Wang, Y., Faccio, F., Ghanem, B. & Schmidhuber, J. Learning to Identify Critical States for Reinforcement Learning from Videos _ICCV'2023_.
 
