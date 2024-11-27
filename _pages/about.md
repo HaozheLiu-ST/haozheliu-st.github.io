@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. Previously, I interned at Jarvis Lab, Tencent, and was a visiting student at NBL, NTNU. My recent research interests include deep generative models. My long-term goal lies in making the learnable systems reliable, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
+I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. I previously interned at Meta AI in London and Tencent in Shenzhen, and I was a visiting student at the Norwegian Biometric Laboratory (NBL) at NTNU. My recent research interests include deep/large generative models. My long-term goal lies in making the learnable systems reliable, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 **I will join Meta (MPK) as Research Scientist Intern, focusing on GenAI-related topics, in Summer 2025!**
 - *2024.04*: &nbsp;🎉 Promote to Ph.D. Candidate!
 - *2024.02*: &nbsp;🎉 One paper is accepted by CVPR'2024!
-- *2024.02*: &nbsp;🎉🎉 **I will join Meta as Research Scientist Intern on GenAI in Summer 2024!**
+- *2024.02*: &nbsp;🎉🎉 **I will join Meta (London) as Research Scientist Intern on Efficient Video Generation in Summer 2024!**
 - *2023.12*: &nbsp;🎉 [NLSOM](https://arxiv.org/pdf/2305.17066.pdf) is recognized as the best paper at NeurIPS'2023 workshop in [Robustness of Few-shot/Zero-shot Learning in Foundation Models](https://neurips.cc/virtual/2023/workshop/66517) !
 - *2023.09*: &nbsp;🎉 One paper is accepted by NeurIPS'2023!
 - *2023.08*: &nbsp; Invited as a reviewer for AAAI'2024.
@@ -94,8 +95,8 @@ Selected Publications:
  Research Scientist Internship working with [Juan-Manuel Pérez-Rúa](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=en). 
  
 - Research Topic: Foundational Training, Image-to-Video Generation, Text-to-Image Generation.
-- Publication Records: Under Review x 1.
-- Co-Developing a foundtional text-to-image model to support several well-known products.
+- Publication Records: Under Review x 2.
+- Co-Developing a foundtional text-to-image model (model size >5B; data pairs >1B) to support several well-known products.
 - Scaling auto-regressive diffusion to video generation.
 
 ### AI Initiative (KAUST) 
