@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. I previously interned at Meta AI in London and Tencent in Shenzhen, and I was a visiting student at the Norwegian Biometric Laboratory (NBL) at NTNU. My recent research interests include deep/large generative models. My long-term goal lies in making the learnable systems reliable, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
+I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. I previously interned at Meta AI in London and Tencent in Shenzhen, and I was a visiting student at the Norwegian Biometric Laboratory (NBL) at NTNU. My research currently focuses on multimodal generative models, with a long-term goal of developing learnable systems that are efficient, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
 
 
 # 🔥 News
