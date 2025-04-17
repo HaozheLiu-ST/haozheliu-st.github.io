@@ -108,7 +108,7 @@ Selected Publications:
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
 
 - Research Topic: Neural Networks with Multiple-Step Inferences, e.g., Diffusion Model, Auto-Regressive Model, and  RL Agents.
-- Publication Records: ICCV x 1; CVPR x 2; NIPSW x 1;  TMLR x 1, Under Review x 1.
+- Publication Records: ICCV x 1; CVPR x 2; NIPSW x 1;  TMLR x 1, Under Review x 2.
 - Highlight: NLSOM is awarded Best paper@NIPS'23 Ro-FoMo Workshop.
 - Highlight: TGate is merged into the Diffusers Library and received over 300 stars on GitHub.
 
