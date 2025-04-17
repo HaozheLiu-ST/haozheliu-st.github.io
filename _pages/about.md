@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). I have published several papers in top-tier journals/conferences, including CVPR, ICCV, ECCV, AAAI, NeurIPS, MICCAI, TIP, TIFS, etc. I am a reviewer for CVPR, ECCV, ICCV, ICML, AAAI, and MICCAI. I previously interned at Meta AI in London and Tencent in Shenzhen, and I was a visiting student at the Norwegian Biometric Laboratory (NBL) at NTNU. My research currently focuses on multimodal generative models, with a long-term goal of developing learnable systems that are efficient, responsible, and explainable. My curriculum vitae can be found at [here](./haozheliu.pdf).
+I am currently pursuing a Ph.D. at KAUST, supervised by Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). Previously, I interned at Meta AI in London, working on foundational generative models, and at Tencent in Shenzhen, focusing on GAN-based image synthesis and medical imaging. My research centers on multimodal generative models—particularly video and image generation—with the long-term goal of developing a Physical AI Model (world model). I have published over 10 papers in top-tier venues and have received more than 700 citations on Google Scholar. Several of my favorite co-authored projects include [BoxDiff](https://github.com/showlab/BoxDiff), an early training-free controllable diffusion model; [NLSOM](https://arxiv.org/abs/2305.17066), a pioneering position paper on natural language agentic systems; [TGATE](https://github.com/HaozheLiu-ST/T-GATE), the first caching systems for diffusion transformers; and [MarDini](https://mardini-vidgen.github.io/), an early but powerful Auto-Regressive video diffusion model. Beyond this, I also co-developed the pretraining of a 7B commercial text-to-image model at Meta, scaling to over 5B parameters and 1B training samples.  My curriculum vitae can be found at [here](./haozheliu.pdf). 
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉 One paper is accepted by CVPR!
+- *2025.02*: &nbsp;🎉 One paper is accepted by TMLR!
 - *2024.11*: &nbsp;🎉🎉 **I will join Meta (MPK) as Research Scientist Intern, focusing on GenAI-related topics, in Summer 2025!**
 - *2024.04*: &nbsp;🎉 Promote to Ph.D. Candidate!
 - *2024.02*: &nbsp;🎉 One paper is accepted by CVPR'2024!
@@ -44,16 +46,16 @@ I am working towards a Ph.D. degree in KAUST, under the supervision of Prof.[Jue
 
 # 📝 Publications 
 
-Journals: IEEE TIP x 1, IEEE TCYB x 1, IEEE TNNLS x 1, IEEE TIFS x 1, IEEE TIM x 1, MIA x 1, PR x 2.
+Journals: TMLR x 1, IEEE TIP x 1, IEEE TCYB x 1, IEEE TNNLS x 1, IEEE TIFS x 1, IEEE TIM x 1, MIA x 1, PR x 2
 
-Conferences: NeurIPS x 1, CVPR x 4, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
+Conferences: NeurIPS x 1, CVPR x 5, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 
 Selected Publications:
 
 - **Liu, H.**, Liu, S., Zhou, Z., Xu, M., Xie, Y., Han, X., ... & Pérez-Rúa, J. M. (2024). MarDini: Masked Autoregressive Diffusion for Video Generation at Scale.  _Techinical Report_ (under peer-review).
 
-- **Liu, H.**, Zhang, W., Xie, J., Faccio, F., Xu, M., Xiang, T., ... & Schmidhuber, J. (2024). Faster Diffusion via Temporal Attention Decomposition. _Techinical Report_ (under peer-review).
+- **Liu, H.**, Zhang, W., Xie, J., Faccio, F., Xu, M., Xiang, T., ... & Schmidhuber, J. (2024). Faster Diffusion via Temporal Attention Decomposition. _TMLR_.
 
 - **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Techinical Report_.
 
@@ -95,7 +97,7 @@ Selected Publications:
  Research Scientist Internship working with [Juan-Manuel Pérez-Rúa](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=en). 
  
 - Research Topic: Foundational Training, Image-to-Video Generation, Text-to-Image Generation.
-- Publication Records: Under Review x 2.
+- Publication Records: TMLR x 1; CVPR x 1; Under Review x 2
 - Co-Developing a foundtional text-to-image model (model size >5B; data pairs >1B) to support several well-known products.
 - Scaling auto-regressive diffusion to video generation.
 
@@ -103,9 +105,9 @@ Selected Publications:
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
 
 - Research Topic: Neural Networks with Multiple-Step Inferences, e.g., Diffusion Model, Auto-Regressive Model, and  RL Agents.
-- Publication Records: ICCV x 1; CVPR x 2; NIPSW x 1;  Under Review x 3.
+- Publication Records: ICCV x 1; CVPR x 2; NIPSW x 1;  TMLR x 1, Under Review x 1.
 - Highlight: NLSOM is awarded Best paper@NIPS'23 Ro-FoMo Workshop.
-- Highlight: TGate is merged into Diffusers Library and received over 300 stars on GitHub.
+- Highlight: TGate is merged into the Diffusers Library and received over 300 stars on GitHub.
 
 ---
 
