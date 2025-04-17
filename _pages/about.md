@@ -19,6 +19,9 @@ redirect_from:
 
 I am currently pursuing a Ph.D. at KAUST, supervised by Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). Previously, I interned at Meta AI in London, working on foundational generative models, and at Tencent in Shenzhen, focusing on GAN-based image synthesis and medical imaging. My research centers on multimodal generative models—particularly video and image generation—with the long-term goal of developing a Physical AI Model (world model). I am (co-)first author of over 10 papers in top-tier venues, with more than 700 citations on Google Scholar. Several of my favorite co-authored projects include [BoxDiff](https://github.com/showlab/BoxDiff), an early training-free controllable diffusion model; [NLSOM](https://arxiv.org/abs/2305.17066), a pioneering position paper on natural language agentic systems; [TGATE](https://github.com/HaozheLiu-ST/T-GATE), the first caching systems for diffusion transformers; and [MarDini](https://mardini-vidgen.github.io/), an early but powerful Auto-Regressive video diffusion model. Beyond this, I also co-developed the pretraining of a 7B commercial text-to-image model at Meta, scaling to over 5B parameters and 1B training samples.  My curriculum vitae can be found at [here](./haozheliu.pdf). 
 
+I'm open to future collaborations—whether it's co-founding a venture or pursuing full-time opportunities in industry or academia. Feel free to reach out via email: `haozhe.liu[at]kaust.edu.sa`
+
+
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉 One paper is accepted by CVPR!
