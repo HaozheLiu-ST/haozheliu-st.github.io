@@ -119,7 +119,7 @@ Internship supervised by Mentor: [Dr. Yawen Huang](https://yawen-hwang.github.io
   
 - Research Topic: Generative Model and Medical Imaging.
 - Publication Records: NIPS x 1, CVPR x 1; ICCV x 1; AAAI x 1; MICCAI x 2; MIA x 1; PR x 1; ECCVW x 1. 
-- Highlight: MaF-GAN is recognized as \textbf{Oral} paper@AAAI.
+- Highlight: MaF-GAN is recognized as Oral paper@AAAI.
 - Highlight: Ranked 4th in ECCV'2022 NICO Challenge.
 
 ---
@@ -136,14 +136,4 @@ Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.
 M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
 - Research Topic: AI Safety, Facial/Fingerprint Recognition System.
 - Publication Records: CVPR x 1; ICCV x 1; IEEE TIP x 1; IEEE TCYB x 1, IEEE TIFS x 1, IEEE TIM x 1.
-- Highlight: Recognized as China National Scholarship and Outstanding Graduate Award.
-
-# 💻 Professional Service
-
-### Conference Reviewer 
-- CVPR: 2022, 2023
-- ECCV: 2022, 2024
-- ICCV: 2023
-- AAAI: 2024
-- ICML: 2022
-- MICCAI: 2022
+- Highlight: Recognized as a China National Scholarship and an Outstanding Graduate Award.
