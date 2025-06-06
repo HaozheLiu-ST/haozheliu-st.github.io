@@ -50,7 +50,7 @@ I'm open to future collaborations—whether it's co-founding a venture or pursui
 
 # 📝 Publications 
 
-Journals: TMLR x 2, IEEE TIP x 1, IEEE TCYB x 1, IEEE TNNLS x 1, IEEE TIFS x 1, IEEE TIM x 1, MIA x 1, PR x 2
+Journals: TMLR x 2, IEEE TIP x 1, IEEE TCYB x 1, IEEE TNNLS x 1, IEEE TIFS x 1, IEEE TIM x 1, MIA x 1, PR x 3
 
 Conferences: NeurIPS x 1, CVPR x 5, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
