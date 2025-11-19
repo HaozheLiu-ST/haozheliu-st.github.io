@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. at KAUST, supervised by Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). Previously, I interned at Meta AI in London, working on foundational generative models, and at Tencent in Shenzhen, focusing on GAN-based image synthesis and medical imaging. My research centers on multimodal generative models—particularly video and image generation—with the long-term goal of developing a Physical AI Model (world model). I am (co-)first author of over 10 papers in top-tier venues, with more than 700 citations on Google Scholar. Several of my favorite co-authored projects include [BoxDiff](https://github.com/showlab/BoxDiff), an early training-free controllable diffusion model; [NLSOM](https://arxiv.org/abs/2305.17066), a pioneering position paper on natural language agentic systems; [TGATE](https://github.com/HaozheLiu-ST/T-GATE), the first caching systems for diffusion transformers; and [MarDini](https://mardini-vidgen.github.io/), an early but powerful Auto-Regressive video diffusion model. Beyond this, I also co-developed the pretraining of a 7B commercial text-to-image model at Meta, scaling to O(1B) training samples.  My curriculum vitae can be found at [here](./haozheliu.pdf). 
+
+
+I am currently pursuing a Ph.D. at KAUST, supervised by Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en). My research focuses on multimodal generative models, particularly video and image generation, with the long-term goal of developing a Physical AI (world model). I have completed one research internship at Tencent and two at Meta AI, where I worked on building large-scale prototype foundation models from scratch, including autoregressive diffusion and native LLM-driven multimodal generation.
+I am (co-)first author of over 10 papers in top-tier venues, with more than 1k citations. Several of my favorite co-authored projects include [BoxDiff](https://github.com/showlab/BoxDiff), an early training-free controllable diffusion model; [NLSOM](https://arxiv.org/abs/2305.17066), a pioneering position paper on natural language agentic systems; [TGATE](https://github.com/HaozheLiu-ST/T-GATE), the first caching systems for diffusion transformers; [MarDini](https://mardini-vidgen.github.io/), an early but powerful Auto-Regressive video diffusion model; [SANA-Video](https://arxiv.org/abs/2509.24695), an efficient video diffusion transformer with linear attention; and [MoS](https://arxiv.org/abs/2511.12207), a native LLM-driven multimodal generation model. Additionally, I am a core member of several large-scale pre-training projects, including scaling models across over 1,000 GPUs. My internship projects have been successfully deployed in multiple internal products. My curriculum vitae can be found at [here](./haozheliu.pdf). 
 
 I'm open to future collaborations—whether it's co-founding a venture or pursuing full-time opportunities in industry or academia. Feel free to reach out via email: `haozhe.liu[at]kaust.edu.sa`
 
@@ -33,19 +36,13 @@ I'm open to future collaborations—whether it's co-founding a venture or pursui
 - *2024.02*: &nbsp;🎉🎉 **I will join Meta (London) as Research Scientist Intern on Efficient Video Generation in Summer 2024!**
 - *2023.12*: &nbsp;🎉 [NLSOM](https://arxiv.org/pdf/2305.17066.pdf) is recognized as the best paper at NeurIPS'2023 workshop in [Robustness of Few-shot/Zero-shot Learning in Foundation Models](https://neurips.cc/virtual/2023/workshop/66517) !
 - *2023.09*: &nbsp;🎉 One paper is accepted by NeurIPS'2023!
-- *2023.08*: &nbsp; Invited as a reviewer for AAAI'2024.
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV'2023!.
 - *2023.02*: &nbsp;🎉🎉 Two papers are accepted by CVPR'2023!.
-- *2023.02*: &nbsp; Invited as a reviewer for ICCV'2023.
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI'2023 (Oral).
-- *2022.11*: &nbsp; Invited as a reviewer for CVPR'2023.
 - *2022.08*: &nbsp;🎉🎉 **I join AI Initiative, KAUST to pursue the Ph.D. degree under the supervision of Juergen Schmidhuber!**
 - *2022.08*: &nbsp;🎉 Our team reaches to the 4th/40 in [NICO challenge](https://nicochallenge.com/) (Invited Workshop Paper in ECCV'2022).
 - *2022.07*: &nbsp;🎉 One paper is accepted by ECCV'2022! 
 - *2022.06*: &nbsp;🎉 Two papers are accepted by MICCAI'2022!
-- *2022.05*: &nbsp;[Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)!  
-- *2022.04*: &nbsp; Invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
-- *2021.10*: &nbsp; Invited as a reviewer for CVPR'2022.
 - *2021.07*: &nbsp;🎉 One paper is accepted by ICCV'2021!
 
 # 📝 Publications 
@@ -57,9 +54,11 @@ Conferences: NeurIPS x 1, CVPR x 5, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 Selected Publications:
 
+- **Liu, H.**, Liu, D., Zhuge, M., Zhou, Z., Xie, T., He, S., ... & Schmidhuber, J. (2025). MarDini: Masked Autoregressive Diffusion for Video Generation at Scale.  _Techinical Report_.
+
 - **Liu, H.**, Liu, S., Zhou, Z., Xu, M., Xie, Y., Han, X., ... & Pérez-Rúa, J. M. (2024). MarDini: Masked Autoregressive Diffusion for Video Generation at Scale.  _TMLR_.
 
-- **Liu, H.**, Zhang, W., Xie, J., Faccio, F., Xu, M., Xiang, T., ... & Schmidhuber, J. (2024). Faster Diffusion via Temporal Attention Decomposition. _TMLR_.
+- **Liu, H.**, Zhang, W., Xie, J., Faccio, F., Xu, M., Xiang, T., ... & Schmidhuber, J. (2024). Faster Diffusion via Temporal Attention Decomposition. _ICLR_ & _TMLR_.
 
 - **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Techinical Report_.
 
@@ -69,7 +68,7 @@ Selected Publications:
 
 - **Liu, H.**, Li, B., Wu, H., Liang, H., Huang, Y., Li, Y., ... & Zheng, Y. Combating Mode Collapse in GANs via Manifold Entropy Estimation.  _AAAI'2023 Oral_.
 
-- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. Group-wise Inhibition based Feature Regularization for Robust Classification. _ICCV'2021_.
+- **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. Group-wise Inhibition-based Feature Regularization for Robust Classification. _ICCV'2021_.
 
 - **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE T-CYB_.
 
@@ -91,19 +90,27 @@ Selected Publications:
 - *2023* Best Paper Award at NeuralIPS Workshop in Robustness of Few-shot/Zero-shot Learning in Foundation Models
 - *2022* Outstanding Graduate Award (**Rate<5%**)
 - *2021* China National Scholarship (**Rate<0.02%**)
-- *2020* Excellent Academic Scholarship, First Class 
-- *2019* Excellent Academic Scholarship, Second Class 
-- *2018* National University Big Data Application Innovation Competition in Northwest, First Place
 
 # 📖 Research Experience
 
-### Meta AI 
+### Meta AI (MPK)
+ Research Scientist Internship working with [Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en). 
+ 
+- Research Topic: Foundational Training, Text-to-Image Generation.
+- Publication Records: Under Review x 5
+- Co-developing a commercial 7B text-to-image model trained on over 1B image–text pairs, deployed in several widely used products.
+- Built a 20B native LLM-driven multimodal generation prototype from scratch.
+- Contributed to developing a native unified model for both visual understanding and generation tasks.
+
+### Meta AI (London)
  Research Scientist Internship working with [Juan-Manuel Pérez-Rúa](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=en). 
  
 - Research Topic: Foundational Training, Image-to-Video Generation, Text-to-Image Generation.
 - Publication Records: TMLR x 2; CVPR x 1; Under Review x 2
 - Co-Developing a foundtional text-to-image model (model size >5B; data pairs >1B) to support several well-known products.
 - Scaling auto-regressive diffusion to video generation.
+
+---
 
 ### AI Initiative (KAUST) 
  PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
@@ -122,19 +129,3 @@ Internship supervised by Mentor: [Dr. Yawen Huang](https://yawen-hwang.github.io
 - Publication Records: NIPS x 1, CVPR x 1; ICCV x 1; AAAI x 1; MICCAI x 2; MIA x 1; PR x 1; ECCVW x 1. 
 - Highlight: MaF-GAN is recognized as Oral paper@AAAI.
 - Highlight: Ranked 4th in ECCV'2022 NICO Challenge.
-
----
-
-### Norwegian Biometrics Laboratory (NTNU)
-Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
-
-- Research Topic: AI Safety, Facial/Fingerprint Recognition System.
-- Publication Records: ECCV x 1, IEEE TNNLS x 1.
-
----
-
-### Computer Vision Insitute (SZU)
-M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
-- Research Topic: AI Safety, Facial/Fingerprint Recognition System.
-- Publication Records: CVPR x 1; ICCV x 1; IEEE TIP x 1; IEEE TCYB x 1, IEEE TIFS x 1, IEEE TIM x 1.
-- Highlight: Recognized as a China National Scholarship and an Outstanding Graduate Award.
