@@ -54,13 +54,13 @@ Conferences: NeurIPS x 1, CVPR x 5, ICCV x 3, ECCV x 1, MICCAI x 2, AAAI x 1.
 
 Selected Publications:
 
-- **Liu, H.**, Liu, D., Zhuge, M., Zhou, Z., Xie, T., He, S., ... & Schmidhuber, J. (2025). MarDini: Masked Autoregressive Diffusion for Video Generation at Scale.  _Techinical Report_.
+- **Liu, H.**, Liu, D., Zhuge, M., Zhou, Z., Xie, T., He, S., ... & Schmidhuber, J. (2025). Mixture of States: Routing Token-Level Dynamics for Multimodal Generation.  _Technical Report_.
 
 - **Liu, H.**, Liu, S., Zhou, Z., Xu, M., Xie, Y., Han, X., ... & Pérez-Rúa, J. M. (2024). MarDini: Masked Autoregressive Diffusion for Video Generation at Scale.  _TMLR_.
 
 - **Liu, H.**, Zhang, W., Xie, J., Faccio, F., Xu, M., Xiang, T., ... & Schmidhuber, J. (2024). Faster Diffusion via Temporal Attention Decomposition. _ICLR_ & _TMLR_.
 
-- **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Techinical Report_.
+- **Liu, H.**, Zhang, W., Li, B., Ghanem, B., & Schmidhuber, J. Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable. _Technical Report_.
 
 - **Liu, H.**, Zhuge, M., Li, B., Wang, Y., Faccio, F., Ghanem, B. & Schmidhuber, J. Learning to Identify Critical States for Reinforcement Learning from Videos _ICCV'2023_.
 
