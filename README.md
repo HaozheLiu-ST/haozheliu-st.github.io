@@ -1,14 +1,3 @@
-
-<h1 align="center">
-AcadHomepage
-- `index.html` — homepage
-- `research.html` — research overview
-- `publications.html` — publications
-- `talks.html` — talks
-- `cv.html` — CV page
-- `assets/css/style.css` — styling
-- `.github/workflows/pages.yml` — GitHub Pages deployment workflow
-
 ## Quick deployment to GitHub Pages
 
 1. Create a repository named `haozheliu.github.io` on GitHub.
