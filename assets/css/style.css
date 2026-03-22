@@ -203,7 +203,7 @@ a:hover {
   display: grid;
   grid-template-columns: 180px minmax(0, 1fr);
   column-gap: 1.25rem;
-  align-items: start;
+  align-items: center;
   padding: 1.05rem 0;
 }
 
