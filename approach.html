@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Research Approach | Haozhe Liu</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav container">
+      <a class="brand" href="index.html">Haozhe Liu</a>
+      <div class="nav-links">
+        <a href="research.html">Research</a>
+        <a class="active" href="approach.html">Approach</a>
+        <a href="projects.html">Projects</a>
+        <a href="publications.html">Publications</a>
+        <a href="talks.html">Talks</a>
+        <a href="static/files/Haozhe_Liu_CV.pdf">CV</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="container page-content approach-page">
+    <h1>Research Approach</h1>
+    <p>
+      I care not only about which problems to study, but also about the shape of a good research bet.
+      I am most excited by two modes of exploration: opening a new direction with practical value,
+      and building complete systems where many pieces have to work together.
+    </p>
+
+    <section>
+      <h2>Opening New Directions with Practical Value</h2>
+      <p>
+        I like research that identifies a useful new formulation early, then makes it practical enough for
+        others to build on. Representative works include:
+      </p>
+      <ul class="research-list">
+        <li>
+          <strong>MarDini</strong>, among the first hybrid autoregressive-diffusion models enabling scalable autoregressive video generation.
+          <span class="work-links">
+            <a href="https://mardini-vidgen.github.io/" target="_blank" rel="noopener">Homepage</a>
+            <a href="https://arxiv.org/abs/2410.20280" target="_blank" rel="noopener">arXiv</a>
+          </span>
+        </li>
+        <li>
+          <strong>T-GATE</strong>, among the first works to successfully apply KV-caching-style reuse to Diffusion Transformers for both image and video generation.
+          <span class="work-links">
+            <a href="https://arxiv.org/abs/2404.02747" target="_blank" rel="noopener">arXiv</a>
+            <a href="https://github.com/HaozheLiu-ST/T-GATE" target="_blank" rel="noopener">GitHub &#9733; 418</a>
+          </span>
+        </li>
+        <li>
+          <strong>NLSOM</strong>, scaling the number of agents to study group intelligence in natural-language societies of mind; Best Paper Award at the NeurIPS 2023 R0-FoMo Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models.
+          <span class="work-links">
+            <a href="https://arxiv.org/abs/2305.17066" target="_blank" rel="noopener">arXiv</a>
+            <a href="https://github.com/metauto-ai/Mindstorm" target="_blank" rel="noopener">GitHub &#9733; 80</a>
+            <a href="https://sites.google.com/view/r0-fomo/accepted-papers" target="_blank" rel="noopener">Best Paper</a>
+          </span>
+        </li>
+        <li>
+          <strong>BoxDiff</strong>, an early diffusion-based approach to controllable generation, developed contemporaneously with ControlNet.
+          <span class="work-links">
+            <a href="https://arxiv.org/abs/2307.10816" target="_blank" rel="noopener">arXiv</a>
+            <a href="https://github.com/showlab/BoxDiff" target="_blank" rel="noopener">GitHub &#9733; 274</a>
+          </span>
+        </li>
+        <li>
+          <strong>Neural Computers</strong>, among the first end-to-end efforts to use diffusion dynamics to simulate general-purpose computation.
+          <span class="work-links">
+            <a href="https://arxiv.org/abs/2604.06425" target="_blank" rel="noopener">arXiv</a>
+            <a href="https://github.com/metauto-ai/NeuralComputer" target="_blank" rel="noopener">GitHub</a>
+            <a href="https://metauto.ai/neuralcomputer/" target="_blank" rel="noopener">Blogpost</a>
+            <a href="https://x.com/MingchenZhuge/status/2049853505418961341" target="_blank" rel="noopener">Karpathy mention</a>
+          </span>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Building Complete Systems</h2>
+      <p>
+        I also enjoy systematic, result-driven research: building a complete system rather than relying on
+        a single algorithmic breakthrough. In this mode, data, architecture, training, inference, evaluation,
+        and product constraints have to co-evolve. Representative systems include:
+      </p>
+      <ul class="research-list">
+        <li>
+          <strong>SANA-Video</strong>, an efficient video generation system in the Sana family.
+          <span class="work-links">
+            <a href="https://nvlabs.github.io/Sana/Video/" target="_blank" rel="noopener">Homepage</a>
+            <a href="https://arxiv.org/abs/2509.24695" target="_blank" rel="noopener">arXiv</a>
+            <a href="https://github.com/NVlabs/Sana" target="_blank" rel="noopener">GitHub &#9733; 8.3k</a>
+          </span>
+        </li>
+        <li>
+          <strong>SANA-WM</strong>, a minute-scale world-modeling system built around efficient hybrid linear Diffusion Transformers.
+          <span class="work-links">
+            <a href="https://nvlabs.github.io/Sana/WM/" target="_blank" rel="noopener">Homepage</a>
+            <a href="https://arxiv.org/abs/2605.15178" target="_blank" rel="noopener">arXiv</a>
+            <a href="https://github.com/NVlabs/Sana" target="_blank" rel="noopener">GitHub &#9733; 8.3k</a>
+          </span>
+        </li>
+        <li>
+          <strong>TUNA</strong>, a native unified multimodal model system for taming unified visual representations.
+          <span class="work-links">
+            <a href="https://tuna-ai.org/" target="_blank" rel="noopener">Homepage</a>
+            <a href="https://arxiv.org/abs/2512.02014" target="_blank" rel="noopener">arXiv</a>
+          </span>
+        </li>
+        <li><strong>Meta in-house foundation model work</strong>, large-scale model building where product impact, data, evaluation, and system design have to co-evolve.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer container">
+    <p><a href="index.html">← Back to home</a></p>
+  </footer>
+</body>
+</html>
