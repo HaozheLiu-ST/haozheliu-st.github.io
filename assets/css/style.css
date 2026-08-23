@@ -213,6 +213,12 @@ a:hover {
     linear-gradient(150deg, #fbfdf7 0%, #eef6e8 45%, #f7f8f3 100%);
 }
 
+.project-card-sol {
+  background:
+    radial-gradient(circle at 90% 10%, rgba(45, 212, 191, 0.2), rgba(45, 212, 191, 0) 30%),
+    linear-gradient(150deg, #f7fffd 0%, #e9f8f4 46%, #f4f8f7 100%);
+}
+
 .project-kicker,
 .project-title,
 .project-copy,
