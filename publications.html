@@ -21,148 +21,256 @@
     </nav>
   </header>
 
-  <main class="container page-content publications-page">
+  <main class="container page-content publications-page" id="top">
     <h1>Publications</h1>
-    <p>
-      Full publication list:
-      <a href="https://scholar.google.com/citations?user=QX51P54AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+    <p class="publications-intro">
+      Selected work, organized by research direction.
+      <a href="https://scholar.google.com/citations?user=QX51P54AAAAJ" target="_blank" rel="noopener">Full list on Google Scholar <span aria-hidden="true">↗</span></a>
     </p>
 
-    <h2>Selected Publications</h2>
-    <div class="entry-list publication-list">
+    <nav class="publication-areas" aria-label="Publication categories">
+      <a href="#agentic-systems">
+        <span class="publication-area-number" aria-hidden="true">01</span>
+        <span>Scalable Agentic Systems</span>
+        <span class="publication-area-count">4<span class="sr-only"> publications</span></span>
+      </a>
+      <a href="#foundation-models">
+        <span class="publication-area-number" aria-hidden="true">02</span>
+        <span>Foundation Model Development</span>
+        <span class="publication-area-count">6<span class="sr-only"> publications</span></span>
+      </a>
+      <a href="#efficient-ai">
+        <span class="publication-area-number" aria-hidden="true">03</span>
+        <span>Efficient AI</span>
+        <span class="publication-area-count">4<span class="sr-only"> publications</span></span>
+      </a>
+      <a href="#earlier-research">
+        <span class="publication-area-number" aria-hidden="true">04</span>
+        <span>Earlier Research</span>
+        <span class="publication-area-count">5<span class="sr-only"> publications</span></span>
+      </a>
+    </nav>
 
-      <article class="entry">
-        <div class="entry-venue">Technical Report 2026</div>
-        <div class="entry-main">
-          <h3 class="entry-title">SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness</h3>
-          <p class="entry-authors"><strong>Haozhe Liu</strong>, Tian Ye, Sensen Gao, Qihang Cao, Yitong Li, Mingchen Zhuge, Duomin Wang, Ruihua Zhang, Ping Luo, Jiawang Bian, Lei Zhu, Ligeng Zhu, Enze Xie, Song Han</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2609.20519" target="_blank" rel="noopener">Paper</a> <a href="https://nvlabs.github.io/SoL-Pi/" target="_blank" rel="noopener">Page</a> <a href="https://github.com/NVlabs/SoL-Pi" target="_blank" rel="noopener">Code</a></p>
+    <section class="publication-section" id="agentic-systems" aria-labelledby="agentic-systems-title">
+      <header class="publication-section-header">
+        <div class="publication-section-title">
+          <span class="publication-section-number" aria-hidden="true">01</span>
+          <h2 id="agentic-systems-title">Scalable Agentic Systems</h2>
         </div>
-      </article>
+        <p>Recursive self-improvement, collective intelligence, and learning to act.</p>
+      </header>
+      <div class="entry-list publication-list">
+        <article class="entry">
+          <div class="entry-venue">Technical Report 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness</h3>
+            <p class="entry-authors"><strong>Haozhe Liu</strong>, Tian Ye, Sensen Gao, Qihang Cao, Yitong Li, Mingchen Zhuge, Duomin Wang, Ruihua Zhang, Ping Luo, Jiawang Bian, Lei Zhu, Ligeng Zhu, Enze Xie, Song Han</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2609.20519" target="_blank" rel="noopener">Paper</a> <a href="https://nvlabs.github.io/SoL-Pi/" target="_blank" rel="noopener">Page</a> <a href="https://github.com/NVlabs/SoL-Pi" target="_blank" rel="noopener">Code</a></p>
+          </div>
+        </article>
 
-      <article class="entry">
-        <div class="entry-venue">Technical Report 2026</div>
-        <div class="entry-main">
-          <h3 class="entry-title">SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer</h3>
-          <p class="entry-authors">Haoyi Zhu, <strong>Haozhe Liu</strong> (equal contribution), Yuyang Zhao, Tian Ye, Junsong Chen, Jincheng Yu, Tong He, Song Han, Enze Xie</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2605.15178" target="_blank">Paper</a> <a href="https://nvlabs.github.io/Sana/WM/" target="_blank">Page</a> <a href="https://github.com/NVlabs/Sana" target="_blank">Code</a></p>
-        </div>
-      </article>
+        <article class="entry">
+          <div class="entry-venue">Technical Report 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Neural Computers</h3>
+            <p class="entry-authors">Mingchen Zhuge, Changsheng Zhao, <strong>Haozhe Liu</strong> (main contributor), Zijian Zhou, Shuming Liu, Wenyi Wang, Ernie Chang, Gael Le Lan, Junjie Fei, Wenxuan Zhang, Yasheng Sun, Zhipeng Cai, Zechun Liu, Yunyang Xiong, Yining Yang, Yuandong Tian, Yangyang Shi, Vikas Chandra, Jürgen Schmidhuber</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2604.06425" target="_blank">Paper</a> <a href="https://github.com/metauto-ai/NeuralComputer" target="_blank">Code</a></p>
+          </div>
+        </article>
 
-      <article class="entry">
-        <div class="entry-venue">Technical Report 2026</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Neural Computers</h3>
-          <p class="entry-authors">Mingchen Zhuge, Changsheng Zhao, <strong>Haozhe Liu</strong> (main contributor), Zijian Zhou, Shuming Liu, Wenyi Wang, Ernie Chang, Gael Le Lan, Junjie Fei, Wenxuan Zhang, Yasheng Sun, Zhipeng Cai, Zechun Liu, Yunyang Xiong, Yining Yang, Yuandong Tian, Yangyang Shi, Vikas Chandra, Jürgen Schmidhuber</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2604.06425" target="_blank">Paper</a> <a href="https://github.com/metauto-ai/NeuralComputer" target="_blank">Code</a></p>
-        </div>
-      </article>
+        <article class="entry">
+          <div class="entry-venue">NIPS 2024</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Mindstorms in Natural Language-Based Societies of Mind (NLSOM)</h3>
+            <p class="entry-authors">Mingchen Zhuge, <strong>Haozhe Liu</strong> (equal contribution), Francesco Faccio, Dylan R. Ashley, Róbert Csordás, Anand Gopalakrishnan, Abdullah Hamdi, Hasan Abed Al Kader Hammoud, Vincent Herrmann, Kazuki Irie, Louis Kirsch, Bing Li, Guohao Li, Shuming Liu, Jinjie Mai, Piotr Piękos, Aditya Ramesh, Imanol Schlag, Weimin Shi, Aleksandar Stanić, Wenyi Wang, Yuhui Wang, Mengmeng Xu, Deng-Ping Fan, Bernard Ghanem, Jürgen Schmidhuber</p>
+            <p class="entry-meta">Workshop Best Paper</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2305.17066" target="_blank">Paper</a> <a href="https://github.com/metauto-ai/Mindstorm" target="_blank">Code</a></p>
+          </div>
+        </article>
 
-      <article class="entry">
-        <div class="entry-venue">CVPR 2026</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Mixture of States: Routing Token-Level Dynamics for Multimodal Generation</h3>
-          <p class="entry-authors"><strong>Haozhe Liu</strong>, Ding Liu, Mingchen Zhuge, Zijian Zhou, Tian Xie, Sen He, Yukang Yang, Shuming Liu, Yuren Cong, Jiadong Guo, Hongyu Xu, Ke Xu, Kam-Woh Ng, Juan C. Pérez, Juan-Manuel Pérez-Rúa, Tao Xiang, Wei Liu, Shikun Liu, Jürgen Schmidhuber</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2511.12207" target="_blank">Paper</a> <a href="https://haozheliu-st.github.io/mos-homepage/" target="_blank">Page</a></p>
-        </div>
-      </article>
-      
-      <article class="entry">
-        <div class="entry-venue">CVPR 2026</div>
-        <div class="entry-main">
-          <h3 class="entry-title">TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models</h3>
-          <p class="entry-authors">Zhiheng Liu, Weiming Ren, <strong>Haozhe Liu</strong> (main contributor), Zijian Zhou, Shoufa Chen, Haonan Qiu, Xiaoke Huang, Zhaochong An, Fanny Yang, Aditya Patel, Viktar Atliha, Tony Ng, Xiao Han, Chuyan Zhu, Chenyang Zhang, Ding Liu, Juan-Manuel Pérez-Rúa, Sen He, Jürgen Schmidhuber, Wenhu Chen, Ping Luo, Wei Liu, Tao Xiang, Jonas Schult, Yuren Cong</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2512.02014" target="_blank">Paper</a> <a href="https://tuna-ai.org/" target="_blank">Page</a></p>
-        </div>
-      </article>
-      
-      <article class="entry">
-        <div class="entry-venue">TMLR 2025</div>
-        <div class="entry-main">
-          <h3 class="entry-title">MarDini: Masked Autoregressive Diffusion for Video Generation at Scale</h3>
-          <p class="entry-authors"><strong>Haozhe Liu</strong>, Shikun Liu, Zijian Zhou, Mengmeng Xu, Yanping Xie, Xiao Han, Juan C. Pérez, Ding Liu, Kumara Kahatapitiya, Menglin Jia, Jui-Chieh Wu, Sen He, Tao Xiang, Jürgen Schmidhuber, Juan-Manuel Pérez-Rúa</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2410.20280" target="_blank">Paper</a> <a href="https://mardini-vidgen.github.io/" target="_blank">Page</a></p>
-        </div>
-      </article>
+        <article class="entry">
+          <div class="entry-venue">ICCV 2023</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Learning to Identify Critical States for Reinforcement Learning from Videos</h3>
+            <p class="entry-authors"><strong>Haozhe Liu</strong>, Mingchen Zhuge, Bing Li, Yuhui Wang, Francesco Faccio, Bernard Ghanem, Jürgen Schmidhuber</p>
+            <p class="entry-links"><a href="http://openaccess.thecvf.com/content/ICCV2023/html/Liu_Learning_to_Identify_Critical_States_for_Reinforcement_Learning_from_Videos_ICCV_2023_paper.html" target="_blank">Paper</a> <a href="https://github.com/AI-Initiative-KAUST/VideoRLCS" target="_blank">Code</a></p>
+          </div>
+        </article>
+      </div>
+    </section>
 
-      <article class="entry">
-        <div class="entry-venue">TMLR 2025 &amp; ICLR 2026</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Faster Diffusion via Temporal Attention Decomposition</h3>
-          <p class="entry-authors"><strong>Haozhe Liu</strong>, Wentian Zhang, Jinheng Xie, Francesco Faccio, Mengmeng Xu, Tao Xiang, Mike Zheng Shou, Juan-Manuel Perez-Rua, Jürgen Schmidhuber</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2404.02747" target="_blank">Paper</a> <a href="https://github.com/HaozheLiu-ST/T-GATE" target="_blank">Code</a></p>
+    <section class="publication-section" id="foundation-models" aria-labelledby="foundation-models-title">
+      <header class="publication-section-header">
+        <div class="publication-section-title">
+          <span class="publication-section-number" aria-hidden="true">02</span>
+          <h2 id="foundation-models-title">Foundation Model Development</h2>
         </div>
-      </article>
-      
-      <article class="entry">
-        <div class="entry-venue">NIPS 2024</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Mindstorms in Natural Language-Based Societies of Mind (NLSOM)</h3>
-          <p class="entry-authors">Mingchen Zhuge, <strong>Haozhe Liu</strong> (equal contribution), Francesco Faccio, Dylan R. Ashley, Róbert Csordás, Anand Gopalakrishnan, Abdullah Hamdi, Hasan Abed Al Kader Hammoud, Vincent Herrmann, Kazuki Irie, Louis Kirsch, Bing Li, Guohao Li, Shuming Liu, Jinjie Mai, Piotr Piękos, Aditya Ramesh, Imanol Schlag, Weimin Shi, Aleksandar Stanić, Wenyi Wang, Yuhui Wang, Mengmeng Xu, Deng-Ping Fan, Bernard Ghanem, Jürgen Schmidhuber</p>
-          <p class="entry-meta">Workshop Best Paper</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2305.17066" target="_blank">Paper</a> <a href="https://github.com/metauto-ai/Mindstorm" target="_blank">Code</a></p>
-        </div>
-      </article>
-      
-      <article class="entry">
-        <div class="entry-venue">NIPS 2023</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Dynamically Masked Discriminator for Generative Adversarial Networks</h3>
-          <p class="entry-authors">Wentian Zhang, <strong>Haozhe Liu</strong> (equal contribution), Bing Li, Jinheng Xie, Yawen Huang, Yuexiang Li, Yefeng Zheng, Bernard Ghanem</p>
-          <p class="entry-links"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/47fc64d05a394955b1ae2487bfef1ab0-Abstract-Conference.html" target="_blank">Paper</a> <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/47fc64d05a394955b1ae2487bfef1ab0-Supplemental-Conference.zip" target="_blank">Code</a></p>
-        </div>
-      </article>
+        <p>Video, world models, and unified multimodal generation.</p>
+      </header>
+      <div class="entry-list publication-list">
+        <article class="entry">
+          <div class="entry-venue">Technical Report 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation</h3>
+            <p class="entry-authors">Junsong Chen, Jincheng Yu, Yitong Li, Shuchen Xue, <strong>Haozhe Liu</strong>, Jingyu Xin, Yuyang Zhao, Tian Ye, Zhangjie Wu, Zian Wang, Daquan Zhou, Ping Luo, Song Han, Enze Xie</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2607.21553" target="_blank" rel="noopener">Paper</a> <a href="https://nvlabs.github.io/Sana/Video2/" target="_blank" rel="noopener">Page</a> <a href="https://github.com/NVlabs/Sana" target="_blank" rel="noopener">Code</a></p>
+          </div>
+        </article>
 
-      <article class="entry">
-        <div class="entry-venue">ICCV 2023</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Learning to Identify Critical States for Reinforcement Learning from Videos</h3>
-          <p class="entry-authors"><strong>Haozhe Liu</strong>, Mingchen Zhuge, Bing Li, Yuhui Wang, Francesco Faccio, Bernard Ghanem, Jürgen Schmidhuber</p>
-          <p class="entry-links"><a href="http://openaccess.thecvf.com/content/ICCV2023/html/Liu_Learning_to_Identify_Critical_States_for_Reinforcement_Learning_from_Videos_ICCV_2023_paper.html" target="_blank">Paper</a> <a href="https://github.com/AI-Initiative-KAUST/VideoRLCS" target="_blank">Code</a></p>
-        </div>
-      </article>
+        <article class="entry">
+          <div class="entry-venue">Technical Report 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer</h3>
+            <p class="entry-authors">Haoyi Zhu, <strong>Haozhe Liu</strong> (equal contribution), Yuyang Zhao, Tian Ye, Junsong Chen, Jincheng Yu, Tong He, Song Han, Enze Xie</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2605.15178" target="_blank">Paper</a> <a href="https://nvlabs.github.io/Sana/WM/" target="_blank">Page</a> <a href="https://github.com/NVlabs/Sana" target="_blank">Code</a></p>
+          </div>
+        </article>
 
-      <article class="entry">
-        <div class="entry-venue">CVPR 2023</div>
-        <div class="entry-main">
-          <h3 class="entry-title">AdaptiveMix: Improving GAN Training via Feature Space Shrinkage</h3>
-          <p class="entry-authors"><strong>Haozhe Liu</strong>, Wentian Zhang, Bing Li, Haoqian Wu, Nanjun He, Yawen Huang, Yuexiang Li, Bernard Ghanem, Yefeng Zheng</p>
-          <p class="entry-links"><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Liu_AdaptiveMix_Improving_GAN_Training_via_Feature_Space_Shrinkage_CVPR_2023_paper.html" target="_blank">Paper</a> <a href="https://github.com/WentianZhang-ML/AdaptiveMix" target="_blank">Code</a></p>
-        </div>
-      </article>
+        <article class="entry">
+          <div class="entry-venue">CVPR 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Mixture of States: Routing Token-Level Dynamics for Multimodal Generation</h3>
+            <p class="entry-authors"><strong>Haozhe Liu</strong>, Ding Liu, Mingchen Zhuge, Zijian Zhou, Tian Xie, Sen He, Yukang Yang, Shuming Liu, Yuren Cong, Jiadong Guo, Hongyu Xu, Ke Xu, Kam-Woh Ng, Juan C. Pérez, Juan-Manuel Pérez-Rúa, Tao Xiang, Wei Liu, Shikun Liu, Jürgen Schmidhuber</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2511.12207" target="_blank">Paper</a> <a href="https://haozheliu-st.github.io/mos-homepage/" target="_blank">Page</a></p>
+          </div>
+        </article>
 
-      <article class="entry">
-        <div class="entry-venue">AAAI 2023</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Combating Mode Collapse via Offline Manifold Entropy Estimation</h3>
-          <p class="entry-authors"><strong>Haozhe Liu</strong>, Bing Li, Haoqian Wu, Hanbang Liang, Yawen Huang, Yuexiang Li, Bernard Ghanem, Yefeng Zheng</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2208.12055" target="_blank">Paper</a> <a href="https://github.com/HaozheLiu-ST/MEE" target="_blank">Code</a></p>
-        </div>
-      </article>
+        <article class="entry">
+          <div class="entry-venue">CVPR 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models</h3>
+            <p class="entry-authors">Zhiheng Liu, Weiming Ren, <strong>Haozhe Liu</strong> (main contributor), Zijian Zhou, Shoufa Chen, Haonan Qiu, Xiaoke Huang, Zhaochong An, Fanny Yang, Aditya Patel, Viktar Atliha, Tony Ng, Xiao Han, Chuyan Zhu, Chenyang Zhang, Ding Liu, Juan-Manuel Pérez-Rúa, Sen He, Jürgen Schmidhuber, Wenhu Chen, Ping Luo, Wei Liu, Tao Xiang, Jonas Schult, Yuren Cong</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2512.02014" target="_blank">Paper</a> <a href="https://tuna-ai.org/" target="_blank">Page</a></p>
+          </div>
+        </article>
 
-      <article class="entry">
-        <div class="entry-venue">ECCV 2022</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Effective Presentation Attack Detection Driven by Face Related Task</h3>
-          <p class="entry-authors">Wentian Zhang, <strong>Haozhe Liu</strong> (equal contribution), Feng Liu, Raghavendra Ramachandra, Christoph Busch</p>
-          <p class="entry-links"><a href="https://arxiv.org/abs/2111.11046" target="_blank">Paper</a> <a href="https://github.com/WentianZhang-ML/FRT-PAD" target="_blank">Code</a></p>
-        </div>
-      </article>
+        <article class="entry">
+          <div class="entry-venue">ICLR 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer</h3>
+            <p class="entry-authors">Junsong Chen, Yuyang Zhao, Jincheng Yu, Ruihang Chu, Junyu Chen, Shuai Yang, Xianbang Wang, Yicheng Pan, Daquan Zhou, Huan Ling, <strong>Haozhe Liu</strong>, Hongwei Yi, Hao Zhang, Muyang Li, Yukang Chen, Han Cai, Sanja Fidler, Ping Luo, Song Han, Enze Xie</p>
+            <p class="entry-meta">Oral presentation</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2509.24695" target="_blank" rel="noopener">Paper</a> <a href="https://nvlabs.github.io/Sana/Video/" target="_blank" rel="noopener">Page</a> <a href="https://github.com/NVlabs/Sana" target="_blank" rel="noopener">Code</a></p>
+          </div>
+        </article>
 
-      <article class="entry">
-        <div class="entry-venue">ICCV 2021</div>
-        <div class="entry-main">
-          <h3 class="entry-title">Group-wise Inhibition based Feature Regularization for Robust Classification</h3>
-          <p class="entry-authors"><strong>Haozhe Liu</strong>, Haoqian Wu, Weicheng Xie, Feng Liu, Linlin Shen</p>
-          <p class="entry-links"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Group-Wise_Inhibition_Based_Feature_Regularization_for_Robust_Classification_ICCV_2021_paper.pdf" target="_blank">Paper</a> <a href="https://github.com/LinusWu/TENET_Training" target="_blank">Code</a></p>
+        <article class="entry">
+          <div class="entry-venue">TMLR 2025</div>
+          <div class="entry-main">
+            <h3 class="entry-title">MarDini: Masked Autoregressive Diffusion for Video Generation at Scale</h3>
+            <p class="entry-authors"><strong>Haozhe Liu</strong>, Shikun Liu, Zijian Zhou, Mengmeng Xu, Yanping Xie, Xiao Han, Juan C. Pérez, Ding Liu, Kumara Kahatapitiya, Menglin Jia, Jui-Chieh Wu, Sen He, Tao Xiang, Jürgen Schmidhuber, Juan-Manuel Pérez-Rúa</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2410.20280" target="_blank">Paper</a> <a href="https://mardini-vidgen.github.io/" target="_blank">Page</a></p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="publication-section" id="efficient-ai" aria-labelledby="efficient-ai-title">
+      <header class="publication-section-header">
+        <div class="publication-section-title">
+          <span class="publication-section-number" aria-hidden="true">03</span>
+          <h2 id="efficient-ai-title">Efficient AI</h2>
         </div>
-      </article> 
-      
-    </div>
+        <p>Caching, sparse attention, and inference acceleration.</p>
+      </header>
+      <div class="entry-list publication-list">
+        <article class="entry">
+          <div class="entry-venue">Technical Report 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification</h3>
+            <p class="entry-authors">Haopeng Li, Yitong Li, Junsong Chen, Tian Ye, <strong>Haozhe Liu</strong>, Jincheng Yu, Duomin Wang, Ruihua Zhang, Zeke Xie, Enze Xie, Song Han</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2607.24027" target="_blank" rel="noopener">Paper</a> <a href="https://nvlabs.github.io/Sana/Sol-Attn/" target="_blank" rel="noopener">Page</a> <a href="https://github.com/NVlabs/Sana/tree/sol-engine" target="_blank" rel="noopener">Code</a></p>
+          </div>
+        </article>
+
+        <article class="entry">
+          <div class="entry-venue">Technical Report 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation</h3>
+            <p class="entry-authors">Yitong Li, Junsong Chen, Haopeng Li, <strong>Haozhe Liu</strong>, Jincheng Yu, Ligeng Zhu, Ping Luo, Song Han, Enze Xie</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2606.23743" target="_blank" rel="noopener">Paper</a> <a href="https://nvlabs.github.io/Sana/Sol-Engine/" target="_blank" rel="noopener">Page</a> <a href="https://github.com/NVlabs/Sana/tree/sol-engine" target="_blank" rel="noopener">Code</a></p>
+          </div>
+        </article>
+
+        <article class="entry">
+          <div class="entry-venue">TMLR 2025 &amp; ICLR 2026</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Faster Diffusion via Temporal Attention Decomposition</h3>
+            <p class="entry-authors"><strong>Haozhe Liu</strong>, Wentian Zhang, Jinheng Xie, Francesco Faccio, Mengmeng Xu, Tao Xiang, Mike Zheng Shou, Juan-Manuel Perez-Rua, Jürgen Schmidhuber</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2404.02747" target="_blank">Paper</a> <a href="https://github.com/HaozheLiu-ST/T-GATE" target="_blank">Code</a></p>
+          </div>
+        </article>
+
+        <article class="entry">
+          <div class="entry-venue">ICCV 2025</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Adaptive Caching for Faster Video Generation with Diffusion Transformers</h3>
+            <p class="entry-authors">Kumara Kahatapitiya, <strong>Haozhe Liu</strong>, Sen He, Ding Liu, Menglin Jia, Chenyang Zhang, Michael S. Ryoo, Tian Xie</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2411.02397" target="_blank" rel="noopener">Paper</a> <a href="https://adacache-dit.github.io/" target="_blank" rel="noopener">Page</a> <a href="https://github.com/AdaCache-DiT/AdaCache" target="_blank" rel="noopener">Code</a></p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="publication-section" id="earlier-research" aria-labelledby="earlier-research-title">
+      <header class="publication-section-header">
+        <div class="publication-section-title">
+          <span class="publication-section-number" aria-hidden="true">04</span>
+          <h2 id="earlier-research-title">Earlier Research</h2>
+        </div>
+        <p>Selected first- and co-first-author work in generative modeling and visual recognition.</p>
+      </header>
+      <div class="entry-list publication-list">
+        <article class="entry">
+          <div class="entry-venue">NIPS 2023</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Dynamically Masked Discriminator for Generative Adversarial Networks</h3>
+            <p class="entry-authors">Wentian Zhang, <strong>Haozhe Liu</strong> (equal contribution), Bing Li, Jinheng Xie, Yawen Huang, Yuexiang Li, Yefeng Zheng, Bernard Ghanem</p>
+            <p class="entry-links"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/47fc64d05a394955b1ae2487bfef1ab0-Abstract-Conference.html" target="_blank">Paper</a> <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/47fc64d05a394955b1ae2487bfef1ab0-Supplemental-Conference.zip" target="_blank">Code</a></p>
+          </div>
+        </article>
+
+        <article class="entry">
+          <div class="entry-venue">CVPR 2023</div>
+          <div class="entry-main">
+            <h3 class="entry-title">AdaptiveMix: Improving GAN Training via Feature Space Shrinkage</h3>
+            <p class="entry-authors"><strong>Haozhe Liu</strong>, Wentian Zhang, Bing Li, Haoqian Wu, Nanjun He, Yawen Huang, Yuexiang Li, Bernard Ghanem, Yefeng Zheng</p>
+            <p class="entry-links"><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Liu_AdaptiveMix_Improving_GAN_Training_via_Feature_Space_Shrinkage_CVPR_2023_paper.html" target="_blank">Paper</a> <a href="https://github.com/WentianZhang-ML/AdaptiveMix" target="_blank">Code</a></p>
+          </div>
+        </article>
+
+        <article class="entry">
+          <div class="entry-venue">AAAI 2023</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Combating Mode Collapse via Offline Manifold Entropy Estimation</h3>
+            <p class="entry-authors"><strong>Haozhe Liu</strong>, Bing Li, Haoqian Wu, Hanbang Liang, Yawen Huang, Yuexiang Li, Bernard Ghanem, Yefeng Zheng</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2208.12055" target="_blank">Paper</a> <a href="https://github.com/HaozheLiu-ST/MEE" target="_blank">Code</a></p>
+          </div>
+        </article>
+
+        <article class="entry">
+          <div class="entry-venue">ECCV 2022</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Effective Presentation Attack Detection Driven by Face Related Task</h3>
+            <p class="entry-authors">Wentian Zhang, <strong>Haozhe Liu</strong> (equal contribution), Feng Liu, Raghavendra Ramachandra, Christoph Busch</p>
+            <p class="entry-links"><a href="https://arxiv.org/abs/2111.11046" target="_blank">Paper</a> <a href="https://github.com/WentianZhang-ML/FRT-PAD" target="_blank">Code</a></p>
+          </div>
+        </article>
+
+        <article class="entry">
+          <div class="entry-venue">ICCV 2021</div>
+          <div class="entry-main">
+            <h3 class="entry-title">Group-wise Inhibition based Feature Regularization for Robust Classification</h3>
+            <p class="entry-authors"><strong>Haozhe Liu</strong>, Haoqian Wu, Weicheng Xie, Feng Liu, Linlin Shen</p>
+            <p class="entry-links"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Group-Wise_Inhibition_Based_Feature_Regularization_for_Robust_Classification_ICCV_2021_paper.pdf" target="_blank">Paper</a> <a href="https://github.com/LinusWu/TENET_Training" target="_blank">Code</a></p>
+          </div>
+        </article>
+      </div>
+    </section>
   </main>
 
   <footer class="site-footer container">
-    <p><a href="index.html">← Back to home</a></p>
+    <p class="publications-footer-links"><a href="index.html">← Back to home</a><a href="#top">Back to top ↑</a></p>
   </footer>
 </body>
 </html>
