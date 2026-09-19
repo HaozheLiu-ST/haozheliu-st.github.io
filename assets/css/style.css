@@ -511,7 +511,7 @@ a:hover {
 }
 
 .publication-section .entry {
-  grid-template-columns: 128px minmax(0, 1fr);
+  grid-template-columns: 160px minmax(0, 1fr);
   align-items: start;
   column-gap: 1.3rem;
   padding: 1.15rem 0;
@@ -520,11 +520,11 @@ a:hover {
 .publication-section .entry-venue {
   display: block;
   padding-top: 0.18rem;
-  font-size: 0.74rem;
-  line-height: 1.55;
-  letter-spacing: 0.035em;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.025em;
   text-align: left;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .publication-section .entry-title {
@@ -665,7 +665,7 @@ code {
   }
 
   .publication-section .entry-venue {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     padding-top: 0;
   }
 }
