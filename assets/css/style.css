@@ -561,6 +561,21 @@ a:hover {
   font-size: 0.78rem;
 }
 
+.publication-section .entry-summary {
+  margin: 0.4rem 0 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #273244;
+}
+
+.blog-section .entry-title a {
+  color: var(--text);
+}
+
+.blog-section .entry-title a:hover {
+  color: var(--link);
+}
+
 .publications-footer-links {
   display: flex;
   flex-wrap: wrap;
