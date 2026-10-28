@@ -26,107 +26,18 @@
     <h1>Blog</h1>
     <p class="publications-intro">Technical blog posts on agent harnesses, video generation, and inference acceleration.</p>
 
-    <section class="publication-section blog-section" aria-label="Blog posts">
-      <div class="entry-list publication-list">
-        <article class="entry">
-          <div class="entry-venue">Oct 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/Open-H3-Regenerate-2K/" target="_blank" rel="noopener">Open-H3-Regenerate-2K: High-Resolution Video Refinement with Few-Step Diffusion</a></h3>
-            <p class="entry-summary">An open replacement for the closed H3-Regenerate-2K API: a three-step H3 diffusion pass that regenerates 768p drafts at up to 4K. Raters preferred it in 87% of blinded A/B judgments.</p>
-            <p class="entry-authors">Sensen Gao, <strong>Haozhe Liu</strong>, Yitong Li, Haopeng Li, Tian Ye, Jia-Wang Bian, Song Han, Enze Xie</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/Open-H3-Regenerate-2K/" target="_blank" rel="noopener">Read</a> <a href="https://github.com/NVlabs/Sana/tree/sol-engine/models/Open-H3-Regenerate-2K" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">Oct 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/Sol-Engine/StreamRender-H3/" target="_blank" rel="noopener">StreamRender-H3: Interactive Coding Worlds with Real-time Streaming Diffusion Render</a></h3>
-            <p class="entry-summary">Code runs the world; a video model renders it. A code game engine keeps the world state while a two-step streaming MiniMax-H3 model turns every frame into photorealistic video in real time.</p>
-            <p class="entry-authors">Yanzuo Lu, Tian Ye, Yitong Li, Shuchen Xue, <strong>Haozhe Liu</strong>, Song Han, Enze Xie</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/Sol-Engine/StreamRender-H3/" target="_blank" rel="noopener">Read</a> <a href="https://github.com/NVlabs/Sana/tree/sol-engine/models/streamrender_h3" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">Sep 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/SoL-Pi/" target="_blank" rel="noopener">SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses</a></h3>
-            <p class="entry-summary">Spend less without getting less done. Agents build executable environments, observe how models explore, and run auto-research loops that discover reusable harness improvements for more token-efficient coding agents.</p>
-            <p class="entry-authors"><strong>Haozhe Liu</strong>, Tian Ye, Sensen Gao, Qihang Cao, Yitong Li, Mingchen Zhuge, Duomin Wang, Ruihua Zhang, Jiawang Bian, Lei Zhu, Ligeng Zhu, Enze Xie, Song Han</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/SoL-Pi/" target="_blank" rel="noopener">Read</a> <a href="https://arxiv.org/abs/2609.20519" target="_blank" rel="noopener">Paper</a> <a href="https://github.com/NVlabs/SoL-Pi" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">Sep 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/Sol-Refiner/" target="_blank" rel="noopener">SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video</a></h3>
-            <p class="entry-summary">Generate a draft, refine once. A single refinement step turns low-resolution drafts into high-resolution video across different base generators.</p>
-            <p class="entry-authors"><strong>Haozhe Liu</strong>, Tian Ye, Shuchen Xue, Yitong Li, Junsong Chen, Haopeng Li, Jincheng Yu, Duomin Wang, Ruihua Zhang, Lei Zhu, Song Han, Enze Xie</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/Sol-Refiner/" target="_blank" rel="noopener">Read</a> <a href="https://arxiv.org/abs/2609.37969" target="_blank" rel="noopener">Paper</a> <a href="https://github.com/NVlabs/Sana/tree/sol-engine/models/sol-refiner" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">Aug 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/Sol-Engine/H3-Super-Acceleration/" target="_blank" rel="noopener">MiniMax H3 Super Acceleration</a></h3>
-            <p class="entry-summary">Fast draft generation plus high-resolution refinement with Sol Engine: a 5-second 768p video in 6.85 s on one NVIDIA GB200, up to 12.6K videos per day.</p>
-            <p class="entry-authors">Yitong Li, Junsong Chen, <strong>Haozhe Liu</strong>, Haopeng Li, Yuze Ma, Yongchang Liu, Song Han, Enze Xie</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/Sol-Engine/H3-Super-Acceleration/" target="_blank" rel="noopener">Read</a> <a href="https://nvlabs.github.io/Sana/Sol-Engine/" target="_blank" rel="noopener">Sol Engine</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">Jul 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/Sol-Attn/" target="_blank" rel="noopener">Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification</a></h3>
-            <p class="entry-summary">Dynamic routing, sparse attention, and approximate correction unified in a single online-softmax pass.</p>
-            <p class="entry-authors">Haopeng Li, Yitong Li, Junsong Chen, Tian Ye, <strong>Haozhe Liu</strong>, Jincheng Yu, Duomin Wang, Ruihua Zhang, Zeke Xie, Enze Xie, Song Han</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/Sol-Attn/" target="_blank" rel="noopener">Read</a> <a href="https://arxiv.org/abs/2607.24027" target="_blank" rel="noopener">Paper</a> <a href="https://github.com/NVlabs/Sana/tree/sol-engine" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">Jul 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/Video2/" target="_blank" rel="noopener">SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation</a></h3>
-            <p class="entry-summary">Efficient 720p video generation with hybrid linear attention and Attention Residuals.</p>
-            <p class="entry-authors">Junsong Chen, Jincheng Yu, Yitong Li, Shuchen Xue, <strong>Haozhe Liu</strong>, Jingyu Xin, Yuyang Zhao, Tian Ye, Zhangjie Wu, Zian Wang, Daquan Zhou, Ping Luo, Song Han, Enze Xie</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/Video2/" target="_blank" rel="noopener">Read</a> <a href="https://arxiv.org/abs/2607.21553" target="_blank" rel="noopener">Paper</a> <a href="https://github.com/NVlabs/Sana" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">Jun 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/Sol-Engine/" target="_blank" rel="noopener">Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation</a></h3>
-            <p class="entry-summary">An agent-native, training-free acceleration framework for efficient video diffusion inference.</p>
-            <p class="entry-authors">Yitong Li, Junsong Chen, Haopeng Li, <strong>Haozhe Liu</strong>, Jincheng Yu, Ligeng Zhu, Ping Luo, Song Han, Enze Xie</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/Sol-Engine/" target="_blank" rel="noopener">Read</a> <a href="https://arxiv.org/abs/2606.23743" target="_blank" rel="noopener">Paper</a> <a href="https://github.com/NVlabs/Sana/tree/sol-engine" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">May 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/Streaming/" target="_blank" rel="noopener">SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer</a></h3>
-            <p class="entry-summary">A real-time streaming video editing system for minute-level, high-resolution video-to-video editing.</p>
-            <p class="entry-authors">Yuyang Zhao, Yicheng Pan, Qiyuan He, Jincheng Yu, Junsong Chen, Tian Ye, <strong>Haozhe Liu</strong>, Enze Xie, Song Han</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/Streaming/" target="_blank" rel="noopener">Read</a> <a href="https://arxiv.org/abs/2605.30409" target="_blank" rel="noopener">Paper</a> <a href="https://github.com/NVlabs/Sana" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
-
-        <article class="entry">
-          <div class="entry-venue">May 2026</div>
-          <div class="entry-main">
-            <h3 class="entry-title"><a href="https://nvlabs.github.io/Sana/WM/" target="_blank" rel="noopener">SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer</a></h3>
-            <p class="entry-summary">A 2.6B open-source world model that turns one image and a camera trajectory into 720p, minute-long, controllable video on a single GPU.</p>
-            <p class="entry-authors">Haoyi Zhu, <strong>Haozhe Liu</strong>, Yuyang Zhao, Tian Ye, Junsong Chen, Jincheng Yu, Tong He, Song Han, Enze Xie</p>
-            <p class="entry-links"><a href="https://nvlabs.github.io/Sana/WM/" target="_blank" rel="noopener">Read</a> <a href="https://arxiv.org/abs/2605.15178" target="_blank" rel="noopener">Paper</a> <a href="https://github.com/NVlabs/Sana" target="_blank" rel="noopener">Code</a></p>
-          </div>
-        </article>
+    <section aria-label="Blog posts">
+      <div class="entry-list compact">
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/Open-H3-Regenerate-2K/" target="_blank" rel="noopener">Open-H3-Regenerate-2K: High-Resolution Video Refinement with Few-Step Diffusion</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/Sol-Engine/StreamRender-H3/" target="_blank" rel="noopener">StreamRender-H3: Interactive Coding Worlds with Real-time Streaming Diffusion Render</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/SoL-Pi/" target="_blank" rel="noopener">SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/Sol-Refiner/" target="_blank" rel="noopener">SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/Sol-Engine/H3-Super-Acceleration/" target="_blank" rel="noopener">MiniMax H3 Super Acceleration</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/Sol-Attn/" target="_blank" rel="noopener">Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/Video2/" target="_blank" rel="noopener">SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/Sol-Engine/" target="_blank" rel="noopener">Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/Streaming/" target="_blank" rel="noopener">SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer</a></p></article>
+        <article class="entry"><p><a href="https://nvlabs.github.io/Sana/WM/" target="_blank" rel="noopener">SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer</a></p></article>
       </div>
     </section>
   </main>
